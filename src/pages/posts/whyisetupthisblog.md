@@ -1,15 +1,15 @@
 ---
-title: '万文之始'
+title: '欢迎来到存档点'
 pubDate: 2026-03-12
 description: '此Blog的起源故事'
 author: 'Winddroid'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
+    url: 'src\assets\whyisetupthisblog.png'
+    alt: 'Ascii art of SAVEPOINT'
 tags: ["blogging", "essay", "history of pages"]
 ---
 
-# 万文之始
+# 欢迎来到存档点
 
  发表于：2026-03-12
  
